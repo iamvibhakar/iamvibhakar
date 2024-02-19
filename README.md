@@ -2,6 +2,14 @@
 
 ###
 
+<div align="center">
+  <img height="300" width="100%" src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif"  />
+</div>
+
+###
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -53,10 +61,3 @@
 
 ###
 
-###
-
-<div align="center">
-  <img height="600" width="100%" src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif"  />
-</div>
-
-###
