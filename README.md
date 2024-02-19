@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="100%" src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif"  />
+  <img height="600" width="100%" src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif"  />
 </div>
 
 ###
