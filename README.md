@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is VIbhakar Kumar and I'm a Software Engineer, from Ranchi, Jharkhand</h2>
+<h2 align="left">Hi 👋! My name is Vibhakar Kumar and I'm a Software Engineer, from Ranchi, Jharkhand</h2>
 
 ###
 
